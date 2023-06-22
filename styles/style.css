@@ -1,0 +1,9 @@
+ body { 
+ 	  
+  
+ 	  background-image: linear-gradient(red, yellow, blue);
+ 	
+ 	  background-color: #cccccc;
+
+    background-image: repeating-radial-gradient(red, yellow 10%, green 15%)
+ }
